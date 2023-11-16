@@ -4,7 +4,7 @@ import pytesseract
 pytesseract.pytesseract.tesseract_cmd = "C:/Program Files/Tesseract-OCR/tesseract.exe"
 
 # read image
-img = cv2.imread("C:/Users/rahul/Desktop/images.jpg")
+img = cv2.imread("tti1.jpg")
 
 # set configurations
 config = ('-l eng --oem 1 --psm 3')

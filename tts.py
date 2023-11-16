@@ -3,7 +3,7 @@ from gtts import gTTS
 import os
 
 # open text file
-file = open("C:/Users/rahul/recognized.txt", "r").read().replace("\n", " ")
+file = open("recognized.txt", "r").read().replace("\n", " ")
 
 # set language as english
 language = "en"
