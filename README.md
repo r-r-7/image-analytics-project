@@ -1,3 +1,3 @@
 # image-analytics-project
 
-This repository contains the code for converting an image-to-text and text-to-speech
+This repository contains the code for extracting text from image and coverting the given text-to-speech
